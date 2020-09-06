@@ -29,7 +29,7 @@
 
 
 
-<h3 align="center">Connect with us</h3>
+<h3 align="center">Connect with AI ML Consultant</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/company/aiml-consultant/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
