@@ -1,6 +1,6 @@
 
 <h1 align="center">Hands on Machine Learning with Python Workshop</h1>
-<h3 align="center">This Repository contains the Datasets, code samples and useful resources which are part of the workshop</h3>
+<h3 align="center">This Repository contains the Datasets and useful resources which are part of the workshop</h3>
 
 # Workshop Code Lab Demo
 ## Car Price Prediction
