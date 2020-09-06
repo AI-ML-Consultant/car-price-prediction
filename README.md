@@ -24,7 +24,7 @@
 
 
 ## Resources in this repository
-[Dataset](https://github.com/aravind-naidu/car-price-prediction/blob/master/car%20data.csv)
+[Dataset](https://github.com/AI-ML-Consultant/car-price-prediction/blob/master/car%20data.csv)
 
 
 
